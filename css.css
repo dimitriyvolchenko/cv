@@ -1,0 +1,87 @@
+* {
+  font-family: Helvetica;
+}
+
+#headerName {
+  font-size: 1.3em;
+  font-weight: bold;
+  text-align: center;
+  line-height: 50%;
+}
+
+.coordinates {
+  font-size: 1em;
+  font-weight: lighter;
+  text-align: center;
+  line-height: 130%;
+}
+
+.divisions {
+  font-size: 1em;
+  font-weight: bold;
+  text-align: left;
+  line-height: 50%;
+  margin-left: 3em;
+}
+
+.education {
+  font-size: 1em;
+  font-weight: 100;
+  text-align: left;
+  margin-left: 3em;
+}
+
+.institute{
+  font-weight: bold;
+}
+
+.diploma {
+  font-weight: 500;
+}
+
+#codecademyImage {
+  margin-left: 3em;
+  height: 30px;
+  width: 140px;
+}
+
+#linkToCodecademy {
+  margin-top: -15px;
+  font-family: sans-serif;
+  font-size: 0.7em;
+  margin-left: 4.3em;
+  color:  #404040;
+}
+
+#linkToCodecademy:hover {
+  color: #8080ff;
+}
+
+#completedSkills{
+  font-weight: bold;
+}
+
+#untilnow {
+  margin-bottom: -15px;
+}
+
+#codecademyListOfSkills {
+  margin-top: -7px;
+  margin-left: 0.5em;
+  list-style-type: none;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*footer*/
